@@ -128,5 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Folders
+# Folders and Files
 imgs/
+client_secrets.json
