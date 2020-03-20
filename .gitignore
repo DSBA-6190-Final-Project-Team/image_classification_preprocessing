@@ -131,3 +131,4 @@ dmypy.json
 # Folders and Files
 imgs/
 client_secrets.json
+*.rec
